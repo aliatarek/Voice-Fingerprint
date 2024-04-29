@@ -4,6 +4,7 @@ An AI model based desktop application with 2 modes for detecting speech and reco
 ## Features
 Mode 1 - Password based:
 - [x] Detecting one of 3 passwords / sentences the model is trained to give access to
+      
 Mode 2 - Password and voice based:
 - [x] Only granting access when the password is spoken by the authorized individuals
 - [x] Authorization can be given to individuals through the application
